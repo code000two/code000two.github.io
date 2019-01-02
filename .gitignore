@@ -33,3 +33,8 @@ Temporary Items
 
 # debug file
 _site
+
+#idea
+.idea/*
+*.iml
+/.idea/vcs.xml
