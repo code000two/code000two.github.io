@@ -96,14 +96,14 @@ service-worker: true
 
 
 
-# Friends
+# Friends 网站链接
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Google",
+        href: "https://www.google.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Baidu",
+        href: "https://www.baidu.com"
     }
 ]
 
